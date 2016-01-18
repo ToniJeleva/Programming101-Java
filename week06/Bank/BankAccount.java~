@@ -1,10 +1,9 @@
-
 package Bank;
 
 import javax.activity.InvalidActivityException;
 
 public class BankAccount {
-//komentar
+
 	private Owner person;
 	private double balance;
 	private double interest;
